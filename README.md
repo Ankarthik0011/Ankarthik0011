@@ -1,3 +1,19 @@
+<!-- 🌟 Profile Banner -->
+<p align="center">
+  <img src="YOUR_BANNER_LINK_HERE" alt="Karthik A N | Java Full Stack Developer" width="100%">
+</p>
+
+<!-- 🧠 Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
 ## 👋 About Me
 
 I'm *Karthik A N*, a passionate 💻 "Java Full Stack Developer" and 🎓 2025 graduate in "Information Science and Engineering" (VTU).  
