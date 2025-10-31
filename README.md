@@ -1,4 +1,4 @@
-[![PORTFOLIO]](https://karthik-an-portfolio.lovable.app/)
+[PORTFOLIO](https://karthik-an-portfolio.lovable.app/)
 <!-- 🌟 Profile Banner -->
 <p align="center">
   <img src="https://image2url.com/images/1761894476929-e8d7fb70-3b42-4f41-9459-6c39e23f2b18.png" alt="Karthik A N | Java Full Stack Developer" width="100%">
