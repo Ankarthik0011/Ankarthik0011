@@ -9,4 +9,4 @@
 - 🤝 Open to "Full-Time or Internship Opportunities" in Java Full Stack Development  
 - 📫 Reach me at: "ankarthik.531@gmail.com"  
 - 🔗 ["LinkedIn"](https://linkedin.com/in/karthikan123) | ["GitHub"](https://github.com/Ankarthik0011)
-- 
+  
