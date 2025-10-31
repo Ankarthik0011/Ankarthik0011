@@ -1,4 +1,4 @@
-[![Portfolio...](<img src="https://static.vecteezy.com/system/resources/previews/046/165/778/non_2x/a-unique-design-icon-of-portfolio-vector.jpg" height="100px" width="100px"> )](https://karthik-an-portfolio.lovable.app/)
+[![PORTFOLIO]](https://karthik-an-portfolio.lovable.app/)
 <!-- 🌟 Profile Banner -->
 <p align="center">
   <img src="https://image2url.com/images/1761894476929-e8d7fb70-3b42-4f41-9459-6c39e23f2b18.png" alt="Karthik A N | Java Full Stack Developer" width="100%">
