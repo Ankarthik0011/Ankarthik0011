@@ -1,18 +1,8 @@
 [![MasterHead](https://in.images.search.yahoo.com/se%20%20%20%20%20arch/images;_ylt=Awr1ShoRWwRp9QEAIfa7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=github+banner+for+java+fullstack+developer&fr2=piv-web&type=E210IN714G0-E210IN714G0&fr=mcafee#id=15&iurl=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F9464204.jpg&action=click)](https://karthik-an-portfolio.lovable.app/)
 <!-- 🌟 Profile Banner -->
 <p align="center">
-  <img src="https://wallpaperaccess.com/full/9464204.jpg" alt="Karthik A N | Java Full Stack Developer" width="100%">
+  <img src="https://image2url.com/images/1761894476929-e8d7fb70-3b42-4f41-9459-6c39e23f2b18.png" alt="Karthik A N | Java Full Stack Developer" width="100%">
 </p>
-<!-- 🧠 Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
 ---
 ## 👋 About Me
 
