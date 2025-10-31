@@ -1,4 +1,4 @@
-[![MasterHead](https://in.images.search.yahoo.com/se%20%20%20%20%20arch/images;_ylt=Awr1ShoRWwRp9QEAIfa7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=github+banner+for+java+fullstack+developer&fr2=piv-web&type=E210IN714G0-E210IN714G0&fr=mcafee#id=15&iurl=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F9464204.jpg&action=click)](https://karthik-an-portfolio.lovable.app/)
+[![Portfolio...](https://static.vecteezy.com/system/resources/previews/046/165/778/non_2x/a-unique-design-icon-of-portfolio-vector.jpg)](https://karthik-an-portfolio.lovable.app/)
 <!-- 🌟 Profile Banner -->
 <p align="center">
   <img src="https://image2url.com/images/1761894476929-e8d7fb70-3b42-4f41-9459-6c39e23f2b18.png" alt="Karthik A N | Java Full Stack Developer" width="100%">
