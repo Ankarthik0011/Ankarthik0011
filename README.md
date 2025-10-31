@@ -1,21 +1,40 @@
 [![MasterHead](https://in.images.search.yahoo.com/se%20%20%20%20%20arch/images;_ylt=Awr1ShoRWwRp9QEAIfa7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=github+banner+for+java+fullstack+developer&fr2=piv-web&type=E210IN714G0-E210IN714G0&fr=mcafee#id=15&iurl=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F9464204.jpg&action=click)](https://karthik-an-portfolio.lovable.app/)
-<h1 align="center">Hi 👋, I'm Karthik A N</h1>
-<h3 align="center">A passionate Full Stack Java developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- 🌟 Profile Banner -->
+<p align="center">
+  <img src="YOUR_BANNER_LINK_HERE" alt="Karthik A N | Java Full Stack Developer" width="100%">
+</p>
+<!-- 🧠 Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankarthik0011&label=Profile%20views&color=0e75b6&style=flat" alt="ankarthik0011" /> </p>
+---
+## 👋 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankarthik0011" alt="ankarthik0011" /></a> </p>
+I'm *Karthik A N*, a passionate 💻 "Java Full Stack Developer" and 🎓 2025 graduate in "Information Science and Engineering" (VTU).  
+I love transforming ideas into scalable, secure, and user-friendly web applications using "Spring Boot", "React", and "SQL".  
 
-<p align="left"> <a href="https://twitter.com/@karthik66217863" target="blank"><img src="https://img.shields.io/twitter/follow/@karthik66217863?logo=twitter&style=for-the-badge" alt="@karthik66217863" /></a> </p>
+🌱 *Learning Mindset:* I constantly explore new tools and frameworks to stay ahead in full stack development. Currently diving into "AWS deployment" and backend performance optimization.  
 
-- 🔭 I’m currently working on **CkickNBuy**
+💼 *Industry Experience:*  
+During my internship at "Robo Waves Pvt Ltd", I worked on real-world Java projects involving RESTful API design, database optimization, and Agile collaboration — gaining hands-on experience with enterprise-grade development.  
 
-- 👨‍💻 All of my projects are available at [https://karthik-an-portfolio.lovable.app/](https://karthik-an-portfolio.lovable.app/)
+🚀 *What I Do Best:*  
+- Architecting robust backend systems with "Spring Boot" & "MySQL"  
+- Building responsive UIs with "React" and modern web technologies  
+- Implementing "JWT Authentication", "Spring Security", and "Swagger" documentation  
+- Delivering clean, testable, and scalable code  
 
-- 📫 How to reach me **ankarthik.531@gmail.com**
+🎯 *Career Goal:*  
+To contribute as a "Full Stack Developer" in a dynamic tech environment where I can build impactful solutions and continue growing through real-world challenges.  
 
-- 📄 Know about my experiences [https://small-glade-41.linkyhost.com](https://small-glade-41.linkyhost.com)
+📫 *Reach me at:* "ankarthik.531@gmail.com"  
+🔗 ["LinkedIn"](https://linkedin.com/in/karthikan123) | ["GitHub"](https://github.com/Ankarthik0011)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
