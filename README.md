@@ -1,7 +1,7 @@
 [![MasterHead](https://in.images.search.yahoo.com/se%20%20%20%20%20arch/images;_ylt=Awr1ShoRWwRp9QEAIfa7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=github+banner+for+java+fullstack+developer&fr2=piv-web&type=E210IN714G0-E210IN714G0&fr=mcafee#id=15&iurl=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F9464204.jpg&action=click)](https://karthik-an-portfolio.lovable.app/)
 <!-- 🌟 Profile Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_LINK_HERE" alt="Karthik A N | Java Full Stack Developer" width="100%">
+  <img src="https://wallpaperaccess.com/full/9464204.jpg" alt="Karthik A N | Java Full Stack Developer" width="100%">
 </p>
 <!-- 🧠 Badges -->
 <p align="center">
