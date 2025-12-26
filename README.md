@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif width=400" />
+  <img src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif width="400px" />
 </p>
 
 ---
