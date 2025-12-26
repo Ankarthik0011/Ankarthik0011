@@ -1,43 +1,94 @@
 [PORTFOLIO](https://karthik-an-portfolio.lovable.app/)
-<!-- 🌟 Profile Banner -->
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1100&center=true&vCenter=true&width=850&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hi%2C+I'm+Dheeraj+D+%7C+Java+Full+Stack+Developer;%E2%98%95+Crafting+Clean+Code+with+Core+Java+%26+Spring%20Boot;%F0%9F%9A%80+Building+Scalable+APIs+%26+Modern+Web+Apps;%F0%9F%8C%B1+Learning+DevOps+and+Cloud+Deployments;%F0%9F%92%AC+Let's+Innovate+and+Code+Something+Awesome!&colors=00C896,00BFFF,FF69B4,00FA9A,FFD700" alt="Dheeraj D Typing Animation" />
+</h1>
+
 <p align="center">
-  <img src="https://image2url.com/images/1761894476929-e8d7fb70-3b42-4f41-9459-6c39e23f2b18.png" alt="Karthik A N | Java Full Stack Developer" width="100%">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer GIF" width="400" />
 </p>
+
 ---
-## 👋 About Me
 
-I'm *Karthik A N*, a passionate 💻 "Java Full Stack Developer" and 🎓 2025 graduate in "Information Science and Engineering" (VTU).  
-I love transforming ideas into scalable, secure, and user-friendly web applications using "Spring Boot", "React", and "SQL".  
+## 🌟 About Me
 
-🌱 *Learning Mindset:* I constantly explore new tools and frameworks to stay ahead in full stack development. Currently diving into "AWS deployment" and backend performance optimization.  
-
-💼 *Industry Experience:*  
-During my internship at "Robo Waves Pvt Ltd", I worked on real-world Java projects involving RESTful API design, database optimization, and Agile collaboration — gaining hands-on experience with enterprise-grade development.  
-
-🚀 *What I Do Best:*  
-- Architecting robust backend systems with "Spring Boot" & "MySQL"  
-- Building responsive UIs with "React" and modern web technologies  
-- Implementing "JWT Authentication", "Spring Security", and "Swagger" documentation  
-- Delivering clean, testable, and scalable code  
-
-🎯 *Career Goal:*  
-To contribute as a "Full Stack Developer" in a dynamic tech environment where I can build impactful solutions and continue growing through real-world challenges.  
-
-📫 *Reach me at:* "ankarthik.531@gmail.com"  
-🔗 ["LinkedIn"](https://linkedin.com/in/karthikan123) | ["GitHub"](https://github.com/Ankarthik0011)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@karthik66217863" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@karthik66217863" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/karthikan123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/karthikan123" height="30" width="40" /></a>
-<a href="https://instagram.com/_karthik_an" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_karthik_an" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Aspiring%20Full%20Stack%20Developer-brightgreen?style=for-the-badge&logo=github" alt="Status Badge" />
+  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20Karnataka%2C%20India-blue?style=for-the-badge&logo=mapbox" alt="Location Badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  Hi there! I'm <strong>Dheeraj D</strong>, an <strong>Aspiring Java Full Stack Developer</strong> passionate about building robust, scalable web applications. With skills in <strong>Java, Spring Boot, SQL, ReactJS, and DevOps</strong>, I specialize in designing <strong>RESTful APIs</strong> and creating responsive, user-friendly interfaces. Proficient in <strong>SDLC, Git/GitHub, API testing, and deployment workflows</strong>, I'm always eager to contribute to impactful projects and grow as a full-stack engineer. Let's code something awesome together! 🚀  
+</p>
+<p align="right">
+  <a href="https://www.linkedin.com/in/dheeraj-d-29a00717b/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="sakit333" height="30" width="30" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankarthik0011&show_icons=true&locale=en&layout=compact" alt="ankarthik0011" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankarthik0011&show_icons=true&locale=en" alt="ankarthik0011" /></p>
+## 🛠️ Tech Stack & Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankarthik0011&" alt="ankarthik0011" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF4C60&center=true&vCenter=true&width=600&lines=🧠+Technologies+That+Fuel+My+Development;☕+Java+%7C+Spring+Boot+%7C+ReactJS+%7C+DevOps!" alt="Tech Stack Animation" />
+</p>
+
+### Backend & Frameworks
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="60" alt="Spring" title="Spring" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" height="60" alt="Spring Boot" title="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="60" alt="Hibernate" title="Hibernate" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="60" alt="Maven" title="Maven" />
+</p>
+
+### Frontend & UI
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="ReactJS" title="ReactJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="Bootstrap" title="Bootstrap" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymeleaf/thymeleaf-original.svg" height="60" alt="Bootstrap" title="Bootstrap" />
+</p>
+
+### Databases
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="MySQL" title="MySQL" />
+  <img src="https://1000logos.net/wp-content/uploads/2021/04/Oracle-logo.png" height="60" alt="Oracle Database" title="Oracle Database" />
+</p>
+
+### DevOps & Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="60" alt="Jenkins" title="Jenkins" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="GitHub" title="GitHub" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="60" alt="Postman" title="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="60" alt="Eclipse" title="Eclipse" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="VS Code" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="60" alt="Linux" title="Swagger" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="60" alt="Tomcat" title="Tomcat" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="60" alt="Kubernetes" title="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="60" alt="terraform" title="terraform" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="amazonwebservices" title="amazonwebservices/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🚀 Projects
+
+Here are some of my featured projects that showcase my skills in full-stack development:
