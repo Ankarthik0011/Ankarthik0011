@@ -6,11 +6,8 @@
 
 <p align="center">
   <img src="<p align="center">
-  <img src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif" width="350px" />
+  <img src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif" width="300px" height="200px" />
 </p>
-" />
-</p>
-
 ---
 
 ## 🌟 About Me
