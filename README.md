@@ -8,7 +8,6 @@
   <img src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif" width="300px" height="250px" />
 </p>
 ---
-
 ## 🌟 About Me
 
 <p align="center">
