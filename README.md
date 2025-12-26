@@ -8,6 +8,7 @@
   <img src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif" width="300px" height="250px" />
 </p>
 ---
+
 ## 🌟 About Me
 
 <p align="center">
@@ -19,7 +20,7 @@
   Hi there! I'm <strong>Karthik A N</strong>, an <strong>Aspiring Java Full Stack Developer</strong> passionate about building robust, scalable web applications. With skills in <strong>Java, Spring Boot, SQL, ReactJS, and DevOps</strong>, I specialize in designing <strong>RESTful APIs</strong> and creating responsive, user-friendly interfaces. Proficient in <strong>SDLC, Git/GitHub, Docker, API testing, and deployment workflows</strong>, I'm always eager to contribute to impactful projects and grow as a full-stack engineer. Let's code something awesome together! 🚀  
 </p>
 <p align="right">
-  <a href="https://www.linkedin.com/in/dheeraj-d-29a00717b/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="sakit333" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/karthikan123/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="sakit333" height="30" width="30" /></a>
 </p>
 
 ---
