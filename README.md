@@ -1,7 +1,7 @@
 [PORTFOLIO](https://karthik-an-portfolio.lovable.app/)
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1100&center=true&vCenter=true&width=850&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hi%2C+I'm+Dheeraj+D+%7C+Java+Full+Stack+Developer;%E2%98%95+Crafting+Clean+Code+with+Core+Java+%26+Spring%20Boot;%F0%9F%9A%80+Building+Scalable+APIs+%26+Modern+Web+Apps;%F0%9F%8C%B1+Learning+DevOps+and+Cloud+Deployments;%F0%9F%92%AC+Let's+Innovate+and+Code+Something+Awesome!&colors=00C896,00BFFF,FF69B4,00FA9A,FFD700" alt="Dheeraj D Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1100&center=true&vCenter=true&width=850&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hi%2C+I'm+Karthik+A+N+%7C+Java+Full+Stack+Developer;%E2%98%95+Crafting+Clean+Code+with+Core+Java+%26+Spring%20Boot;%F0%9F%9A%80+Building+Scalable+APIs+%26+Modern+Web+Apps;%F0%9F%8C%B1+Learning+DevOps+Tools+and+Cloud+Deployments;%F0%9F%92%AC+Let's+Innovate+and+Code+Something+Awesome!&colors=00C896,00BFFF,FF69B4,00FA9A,FFD700" alt="Karthik A N Typing Animation" />
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  Hi there! I'm <strong>Dheeraj D</strong>, an <strong>Aspiring Java Full Stack Developer</strong> passionate about building robust, scalable web applications. With skills in <strong>Java, Spring Boot, SQL, ReactJS, and DevOps</strong>, I specialize in designing <strong>RESTful APIs</strong> and creating responsive, user-friendly interfaces. Proficient in <strong>SDLC, Git/GitHub, API testing, and deployment workflows</strong>, I'm always eager to contribute to impactful projects and grow as a full-stack engineer. Let's code something awesome together! 🚀  
+  Hi there! I'm <strong>Karthik A N</strong>, an <strong>Aspiring Java Full Stack Developer</strong> passionate about building robust, scalable web applications. With skills in <strong>Java, Spring Boot, SQL, ReactJS, and DevOps</strong>, I specialize in designing <strong>RESTful APIs</strong> and creating responsive, user-friendly interfaces. Proficient in <strong>SDLC, Git/GitHub, Docker, API testing, and deployment workflows</strong>, I'm always eager to contribute to impactful projects and grow as a full-stack engineer. Let's code something awesome together! 🚀  
 </p>
 <p align="right">
   <a href="https://www.linkedin.com/in/dheeraj-d-29a00717b/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="sakit333" height="30" width="30" /></a>
