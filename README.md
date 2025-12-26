@@ -28,7 +28,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF4C60&center=true&vCenter=true&width=600&lines=🧠+Technologies+That+Fuel+My+Development;☕+Java+%7C+Spring+Boot+%7C+ReactJS+%7C+DevOps!" alt="Tech Stack Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF4C60&center=true&vCenter=true&width=600&lines=🧠+Technologies+That+Fuel+My+Development;☕+Java+%7C+Spring+Boot+%7C+MySQL+%7C+DevOps!" alt="Tech Stack Animation" />
 </p>
 
 ### Backend & Frameworks
